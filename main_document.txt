@@ -1,1 +1,8 @@
 We are going to collaborate on this project.
+
+
+
+
+
+I am writing to line seven to demonstration what happens when someone else edits line three.
+
